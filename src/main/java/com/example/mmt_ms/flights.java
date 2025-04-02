@@ -8,4 +8,5 @@ public class flights {
     @GetMapping("/flights")
     public String getData() {return "Please ebook flights at 20% discount "; }
 
+
 }
